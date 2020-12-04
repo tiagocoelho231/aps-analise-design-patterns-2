@@ -1,0 +1,13 @@
+com\tiagocoelho\fileparser\file\PngFile.class
+com\tiagocoelho\fileparser\file\TextFileFactory.class
+com\tiagocoelho\fileparser\file\File.class
+com\tiagocoelho\fileparser\file\JpgFile.class
+com\tiagocoelho\fileparser\file\FileFactory.class
+com\tiagocoelho\fileparser\FileParser.class
+com\tiagocoelho\fileparser\TextFileParser.class
+com\tiagocoelho\fileparser\file\ImageFileFactory.class
+com\tiagocoelho\fileparser\file\TxtFile.class
+com\tiagocoelho\fileparser\Main.class
+com\tiagocoelho\fileparser\ImageFileParser.class
+com\tiagocoelho\fileparser\file\DocxFile.class
+com\tiagocoelho\fileparser\FileParserNullObject.class
